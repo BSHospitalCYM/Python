@@ -1,3 +1,4 @@
+﻿# 这是一个模拟ping命令接收参数传入的程序
 import sys
 
 if len(sys.argv) < 2:
